@@ -1,0 +1,7 @@
+2023-May-07-21:16:52,ETL started
+2023-May-07-21:16:52,Step 1: Extraction has started
+2023-May-07-21:16:53,Step 1: Extraction completed
+2023-May-07-21:16:53,Step 2: Transformation has started
+2023-May-07-21:16:53,Step 2: Transformation completed
+2023-May-07-21:16:53,Step 3: Loading has started
+2023-May-07-21:16:53,DONE
